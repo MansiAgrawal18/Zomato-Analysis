@@ -28,6 +28,6 @@ Counting restaurants by average ratings
 Creating buckets for average price ranges and finding out how many restaurants fall in each bucket 
 Calculating the percentage of restaurants with table booking.
 Calculating the percentage of restaurants with online delivery.
-Developing charts based on cuisines, city, ratings
+Developing charts based on cuisines, city,  and ratings.
 Building dashboard for above Kip's.
 
